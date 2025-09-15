@@ -136,7 +136,7 @@ b. Add interactive elements like slicers or dropdowns for dynamic filtering.
 
 ■	Objective: Learn to design an interactive and user-friendly dashboard.
 
-12.	Highlight High Performers (Conditional Formatting)
+10.	Highlight High Performers (Conditional Formatting)
     
 ○	Task: Use conditional formatting to highlight orders with a profit margin greater than 50% or sales amounts above ₹4000.
 
